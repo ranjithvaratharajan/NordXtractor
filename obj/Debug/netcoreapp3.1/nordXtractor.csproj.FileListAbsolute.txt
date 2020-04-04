@@ -1,0 +1,17 @@
+C:\Users\ranji\Documents\Project\nordXtractor\bin\Debug\netcoreapp3.1\nordXtractor.exe
+C:\Users\ranji\Documents\Project\nordXtractor\bin\Debug\netcoreapp3.1\nordXtractor.deps.json
+C:\Users\ranji\Documents\Project\nordXtractor\bin\Debug\netcoreapp3.1\nordXtractor.runtimeconfig.json
+C:\Users\ranji\Documents\Project\nordXtractor\bin\Debug\netcoreapp3.1\nordXtractor.runtimeconfig.dev.json
+C:\Users\ranji\Documents\Project\nordXtractor\bin\Debug\netcoreapp3.1\nordXtractor.dll
+C:\Users\ranji\Documents\Project\nordXtractor\bin\Debug\netcoreapp3.1\nordXtractor.pdb
+C:\Users\ranji\Documents\Project\nordXtractor\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+C:\Users\ranji\Documents\Project\nordXtractor\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ranji\Documents\Project\nordXtractor\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+C:\Users\ranji\Documents\Project\nordXtractor\obj\Debug\netcoreapp3.1\nordXtractor.csprojAssemblyReference.cache
+C:\Users\ranji\Documents\Project\nordXtractor\obj\Debug\netcoreapp3.1\nordXtractor.csproj.CoreCompileInputs.cache
+C:\Users\ranji\Documents\Project\nordXtractor\obj\Debug\netcoreapp3.1\nordXtractor.AssemblyInfoInputs.cache
+C:\Users\ranji\Documents\Project\nordXtractor\obj\Debug\netcoreapp3.1\nordXtractor.AssemblyInfo.cs
+C:\Users\ranji\Documents\Project\nordXtractor\obj\Debug\netcoreapp3.1\nordXtractor.csproj.CopyComplete
+C:\Users\ranji\Documents\Project\nordXtractor\obj\Debug\netcoreapp3.1\nordXtractor.dll
+C:\Users\ranji\Documents\Project\nordXtractor\obj\Debug\netcoreapp3.1\nordXtractor.pdb
+C:\Users\ranji\Documents\Project\nordXtractor\obj\Debug\netcoreapp3.1\nordXtractor.genruntimeconfig.cache

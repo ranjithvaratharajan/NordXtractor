@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "E76rPJ5OENz7lVPpOzeD68rgbUw9tPrsJMhrnW2Pg7D0Nfrjo74NQqJExQ1Fkd4thXFVu7JQNSW6n55CUPir1A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ranji\\Documents\\Project\\nordXtractor\\nordXtractor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ranji\\.nuget\\packages\\documentformat.openxml\\2.10.1\\documentformat.openxml.2.10.1.nupkg.sha512",
+    "C:\\Users\\ranji\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\ranji\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
