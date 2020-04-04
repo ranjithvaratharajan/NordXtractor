@@ -5,4 +5,4 @@ Extracting Nord Hacked accounts from text file to excel file
 
 Build the project using `dotnet build`
 
-Run command `nordXtractor.exe path_to_raw_file path_to_output_destination.xlsx
+Run command `nordXtractor.exe path_to_raw_file path_to_output_destination.xlsx`
